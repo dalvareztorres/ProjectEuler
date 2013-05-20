@@ -1,0 +1,3 @@
+The number of routers in a n*n grid is (2n choose n).
+
+For a 20*20 grid it is (40 choose 20)
